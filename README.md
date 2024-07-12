@@ -1,11 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/f9/cd/1b/f9cd1b946f9df5737876a18a57c6b4e2.gif)]()
-
 <h1 align="center">I'm Donia 👋</h1>
 <h3 align="center">A passionate software engineering student from Tunisia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/VPnfM9bmR0ZaQo3qtK/giphy.gif?cid=ecf05e47x5l5z829otwjen3b35lmfnb4pp6tsb2ftebo38ik&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doniab7&label=Profile%20views&color=0e75b6&style=flat" alt="doniab7" /> </p>
+</br>
 
 - 🔭 I have a keen interest in **Competitive Programming and Problem-Solving**
 
@@ -24,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doniab7&show_icons=true&locale=en&layout=compact" alt="doniab7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doniab7&show_icons=true&locale=en" alt="doniab7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doniab7&" alt="doniab7" /></p>
